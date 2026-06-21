@@ -24,3 +24,8 @@ Install the C++ compiler, cURL development libraries, and Node.js:
 ```bash
 sudo apt update
 sudo apt install g++ libcurl4-openssl-dev nodejs npm -y
+
+
+## Acknowledgments
+
+This application uses the [Google Safe Browsing API](https://developers.google.com/safe-browsing) to detect malicious targets. All data regarding threat classification is provided directly by Google.
